@@ -1,0 +1,17 @@
+C:\Users\halde\source\repos\ImageEncy\ImageEncy\bin\Debug\ImageEncy.exe.config
+C:\Users\halde\source\repos\ImageEncy\ImageEncy\bin\Debug\ImageEncy.exe
+C:\Users\halde\source\repos\ImageEncy\ImageEncy\bin\Debug\ImageEncy.pdb
+C:\Users\halde\source\repos\ImageEncy\ImageEncy\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Users\halde\source\repos\ImageEncy\ImageEncy\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\halde\source\repos\ImageEncy\ImageEncy\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\halde\source\repos\ImageEncy\ImageEncy\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\halde\source\repos\ImageEncy\ImageEncy\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\halde\source\repos\ImageEncy\ImageEncy\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\halde\source\repos\ImageEncy\ImageEncy\obj\Debug\ImageEncy.csprojAssemblyReference.cache
+C:\Users\halde\source\repos\ImageEncy\ImageEncy\obj\Debug\ImageEncy.Form1.resources
+C:\Users\halde\source\repos\ImageEncy\ImageEncy\obj\Debug\ImageEncy.Properties.Resources.resources
+C:\Users\halde\source\repos\ImageEncy\ImageEncy\obj\Debug\ImageEncy.csproj.GenerateResource.cache
+C:\Users\halde\source\repos\ImageEncy\ImageEncy\obj\Debug\ImageEncy.csproj.CoreCompileInputs.cache
+C:\Users\halde\source\repos\ImageEncy\ImageEncy\obj\Debug\ImageEncy.csproj.CopyComplete
+C:\Users\halde\source\repos\ImageEncy\ImageEncy\obj\Debug\ImageEncy.exe
+C:\Users\halde\source\repos\ImageEncy\ImageEncy\obj\Debug\ImageEncy.pdb
